@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="VGSGS Group" width="200"/>
+  <img src="src/assets/logo.png" alt="VGS Group" width="200"/>
   <h1>VGS Sleep & Living</h1>
   <p>
     <img src="https://img.shields.io/badge/React-18-blue?style=flat&logo=react" alt="React"/>
@@ -11,7 +11,7 @@
 
 [![Demo](https://img.shields.io/badge/Live_Demo-View_Online-brightgreen?logo=vercel)](https://your-deploy-url.vercel.app)
 
-Premium bedding eCommerce landing page for **VGSGS Group** (Sitamarhi). Features blankets, bed sheets, mattresses, mats with WhatsApp ordering, dark navy glassmorphism design, and mobile-first responsiveness.
+Premium bedding eCommerce landing page for **VGS Group** (Sitamarhi). Features blankets, bed sheets, mattresses, mats with WhatsApp ordering, dark navy glassmorphism design, and mobile-first responsiveness.
 
 ## ✨ Features
 
@@ -53,7 +53,7 @@ npm run preview
 ```
 vgs/
 ├── public/
-│   └── logo.png          # VGSGS logo
+│   └── logo.png          # VGS logo
 ├── src/
 │   ├── App.jsx           # Main app + sections
 │   └── index.css         # Glassmorphism + dark theme
@@ -97,13 +97,13 @@ npm run build
 
 ## 📱 Screenshots
 
-![Hero](screenshots/hero.png)
-![Products](screenshots/products.png)
-![Mobile](screenshots/mobile.png)
+![Hero](public/screenshots/hero.png)
+![Products](public/screenshots/products.png)
+![Mobile](public/screenshots/contact.png)
 
 ## 🤝 Business Details
 
-**VGSGS Sleep & Living**  
+**VGS Sleep & Living**  
 📍 Dr Munshi Kumar Building, Bata Gali, Puri, Sitamarhi  
 ☎️ 879520995 | 8210792425  
 🌐 Believe in Quality ☀️
@@ -114,7 +114,7 @@ MIT License - Free for personal/commercial use.
 
 ## 🙏 Credits
 
-Built with ❤️ for VGSGS Group by Perplexity AI Assistant
+Built with ❤️ for VGS Group by Perplexity AI Assistant
 
 <div align="center">
   <a href="https://github.com/yourusername/vgs/issues">
@@ -124,7 +124,6 @@ Built with ❤️ for VGSGS Group by Perplexity AI Assistant
     <img src="https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel" alt="Deploy"/>
   </a>
 </div>
-```
 
 ## Repo Setup Steps
 1. **Create repo**: `vgs`
