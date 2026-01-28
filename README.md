@@ -114,7 +114,7 @@ MIT License - Free for personal/commercial use.
 
 ## 🙏 Credits
 
-Built with ❤️ for VGS Group by Perplexity AI Assistant
+Built with ❤️ for VGS Group
 
 <div align="center">
   <a href="https://github.com/yourusername/vgs/issues">
